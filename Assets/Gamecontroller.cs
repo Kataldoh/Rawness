@@ -11,8 +11,7 @@ public class Gamecontroller : MonoBehaviour
     public int vite;
     public bool gameover;
 
-    // Gamecontroller
-
+    // Start is called before the first frame update
     void Start()
     {
         
