@@ -1,0 +1,4738 @@
+fileFormatVersion: 2
+guid: c8a51a643f5f59444a49af3ea8b41e0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6272059837401399696
+    second: AARON%(8)_0
+  - first:
+      213: -8009295669422681883
+    second: AARON%(8)_1
+  - first:
+      213: 602572775533758624
+    second: AARON%(8)_2
+  - first:
+      213: 2356547838585057585
+    second: AARON%(8)_3
+  - first:
+      213: 37111170054648808
+    second: AARON%(8)_4
+  - first:
+      213: -5153018143664173014
+    second: AARON%(8)_5
+  - first:
+      213: -1959473827240634943
+    second: AARON%(8)_6
+  - first:
+      213: 6317298290461959903
+    second: AARON%(8)_7
+  - first:
+      213: -5690434187066775325
+    second: AARON%(8)_8
+  - first:
+      213: 9044622107036569152
+    second: AARON%(8)_9
+  - first:
+      213: 3358875903925492454
+    second: AARON%(8)_10
+  - first:
+      213: -3771745259363148744
+    second: AARON%(8)_11
+  - first:
+      213: 7355171626294169939
+    second: AARON%(8)_12
+  - first:
+      213: -4581516058853595179
+    second: AARON%(8)_13
+  - first:
+      213: -472132157912317074
+    second: AARON%(8)_14
+  - first:
+      213: -6882445477212289103
+    second: AARON%(8)_15
+  - first:
+      213: 3756762849193073002
+    second: AARON%(8)_16
+  - first:
+      213: -3040711282225761745
+    second: AARON%(8)_17
+  - first:
+      213: -7782035714093983725
+    second: AARON%(8)_18
+  - first:
+      213: 5750124600176998822
+    second: AARON%(8)_19
+  - first:
+      213: 3548770703101991708
+    second: AARON%(8)_20
+  - first:
+      213: 5923189526342612019
+    second: AARON%(8)_21
+  - first:
+      213: 5360469293270420074
+    second: AARON%(8)_22
+  - first:
+      213: -4878444646320987432
+    second: AARON%(8)_23
+  - first:
+      213: -4529933101047678550
+    second: AARON%(8)_24
+  - first:
+      213: -7282233270651446686
+    second: AARON%(8)_25
+  - first:
+      213: 173401810770798882
+    second: AARON%(8)_26
+  - first:
+      213: 7362620046669761267
+    second: AARON%(8)_27
+  - first:
+      213: 3773616739515961844
+    second: AARON%(8)_28
+  - first:
+      213: -7025936868689901697
+    second: AARON%(8)_29
+  - first:
+      213: -3933315517863105202
+    second: AARON%(8)_30
+  - first:
+      213: -5103579561518892263
+    second: AARON%(8)_31
+  - first:
+      213: 7328350469913429850
+    second: AARON%(8)_32
+  - first:
+      213: -6012156422398976265
+    second: AARON%(8)_33
+  - first:
+      213: -1338767858408023948
+    second: AARON%(8)_34
+  - first:
+      213: 5202750453967627805
+    second: AARON%(8)_35
+  - first:
+      213: -2964464357650837421
+    second: AARON%(8)_36
+  - first:
+      213: -737259497702835026
+    second: AARON%(8)_37
+  - first:
+      213: -1867250705552824249
+    second: AARON%(8)_38
+  - first:
+      213: -5041364330180242084
+    second: AARON%(8)_39
+  - first:
+      213: 6911622939961052399
+    second: AARON%(8)_40
+  - first:
+      213: 7474275092741194292
+    second: AARON%(8)_41
+  - first:
+      213: 4556628232137389932
+    second: AARON%(8)_42
+  - first:
+      213: -8412964792043952976
+    second: AARON%(8)_43
+  - first:
+      213: 6161490703706785748
+    second: AARON%(8)_44
+  - first:
+      213: -169263423983700773
+    second: AARON%(8)_45
+  - first:
+      213: 7699575813202136719
+    second: AARON%(8)_46
+  - first:
+      213: -8291007434725019641
+    second: AARON%(8)_47
+  - first:
+      213: 120249333077912743
+    second: AARON%(8)_48
+  - first:
+      213: 9126669062618256112
+    second: AARON%(8)_49
+  - first:
+      213: 6631214254629299724
+    second: AARON%(8)_50
+  - first:
+      213: 7553689901998596877
+    second: AARON%(8)_51
+  - first:
+      213: 4615034199850680322
+    second: AARON%(8)_52
+  - first:
+      213: 2074131668741332605
+    second: AARON%(8)_53
+  - first:
+      213: 2172899360983661089
+    second: AARON%(8)_54
+  - first:
+      213: 6324077534727966097
+    second: AARON%(8)_55
+  - first:
+      213: 8609868696586556749
+    second: AARON%(8)_56
+  - first:
+      213: 8442710985218866690
+    second: AARON%(8)_57
+  - first:
+      213: -7132206977776899144
+    second: AARON%(8)_58
+  - first:
+      213: 184802098431936831
+    second: AARON%(8)_59
+  - first:
+      213: -6221036918371422669
+    second: AARON%(8)_60
+  - first:
+      213: 6108334439124475084
+    second: AARON%(8)_61
+  - first:
+      213: -5129196657893852407
+    second: AARON%(8)_62
+  - first:
+      213: -8630476509390857649
+    second: AARON%(8)_63
+  - first:
+      213: 1106261528469408431
+    second: AARON%(8)_64
+  - first:
+      213: -9091513552407960118
+    second: AARON%(8)_65
+  - first:
+      213: 849963106700438872
+    second: AARON%(8)_66
+  - first:
+      213: 4098155579842065122
+    second: AARON%(8)_67
+  - first:
+      213: -2635958016139993926
+    second: AARON%(8)_68
+  - first:
+      213: 3823821139084181279
+    second: AARON%(8)_69
+  - first:
+      213: 6349647917900766515
+    second: AARON%(8)_70
+  - first:
+      213: 2737772852452729534
+    second: AARON%(8)_71
+  - first:
+      213: 8236369299670491937
+    second: AARON%(8)_72
+  - first:
+      213: 2719273080965850529
+    second: AARON%(8)_73
+  - first:
+      213: -723825838644933295
+    second: AARON%(8)_74
+  - first:
+      213: -8852890928436703281
+    second: AARON%(8)_75
+  - first:
+      213: -8412809050734254773
+    second: AARON%(8)_76
+  - first:
+      213: -1964200457623965805
+    second: AARON%(8)_77
+  - first:
+      213: 9070806651091809748
+    second: AARON%(8)_78
+  - first:
+      213: 644317381882055802
+    second: AARON%(8)_79
+  - first:
+      213: 7737943087248061131
+    second: AARON%(8)_80
+  - first:
+      213: 5330134709295726232
+    second: AARON%(8)_81
+  - first:
+      213: 4499061677885500646
+    second: AARON%(8)_82
+  - first:
+      213: -3227787449252597777
+    second: AARON%(8)_83
+  - first:
+      213: -3846990234318886021
+    second: AARON%(8)_84
+  - first:
+      213: 6733086938348841125
+    second: AARON%(8)_85
+  - first:
+      213: -8400587531319587799
+    second: AARON%(8)_86
+  - first:
+      213: -7844427730084957848
+    second: AARON%(8)_87
+  - first:
+      213: 9190646679455857764
+    second: AARON%(8)_88
+  - first:
+      213: 6465775716110119635
+    second: AARON%(8)_89
+  - first:
+      213: -6058966805905766007
+    second: AARON%(8)_90
+  - first:
+      213: -5280456761616720094
+    second: AARON%(8)_91
+  - first:
+      213: -455037497861474886
+    second: AARON%(8)_92
+  - first:
+      213: 8708872898710347982
+    second: AARON%(8)_93
+  - first:
+      213: -323283306358101155
+    second: AARON%(8)_94
+  - first:
+      213: 7941478537180308367
+    second: AARON%(8)_95
+  - first:
+      213: -5464448084158186049
+    second: AARON%(8)_96
+  - first:
+      213: 8491135004343407398
+    second: AARON%(8)_97
+  - first:
+      213: 6853368135179221643
+    second: AARON%(8)_98
+  - first:
+      213: 8235698210036792311
+    second: AARON%(8)_99
+  - first:
+      213: -1748818836450259112
+    second: AARON%(8)_100
+  - first:
+      213: 7902163063137294222
+    second: AARON%(8)_101
+  - first:
+      213: -8382344262679198942
+    second: AARON%(8)_102
+  - first:
+      213: 5415085125147294130
+    second: AARON%(8)_103
+  - first:
+      213: 2875524731647635843
+    second: AARON%(8)_104
+  - first:
+      213: 3881796540639752837
+    second: AARON%(8)_105
+  - first:
+      213: -4726911607851294994
+    second: AARON%(8)_106
+  - first:
+      213: -5523489187805349300
+    second: AARON%(8)_107
+  - first:
+      213: -446327716618825699
+    second: AARON%(8)_108
+  - first:
+      213: 840930728906715986
+    second: AARON%(8)_109
+  - first:
+      213: 7939411444901582862
+    second: AARON%(8)_110
+  - first:
+      213: -4932511589161367649
+    second: AARON%(8)_111
+  - first:
+      213: 3899683578914913302
+    second: AARON%(8)_112
+  - first:
+      213: -5945875456100305712
+    second: AARON%(8)_113
+  - first:
+      213: 5642152180752584558
+    second: AARON%(8)_114
+  - first:
+      213: 7316073624533297746
+    second: AARON%(8)_115
+  - first:
+      213: 1274399406349787569
+    second: AARON%(8)_116
+  - first:
+      213: -1993736708316548179
+    second: AARON%(8)_117
+  - first:
+      213: -3833109247500176160
+    second: AARON%(8)_118
+  - first:
+      213: 1219371474605605004
+    second: AARON%(8)_119
+  - first:
+      213: 1978135799924714530
+    second: AARON%(8)_120
+  - first:
+      213: -8160967477525333955
+    second: AARON%(8)_121
+  - first:
+      213: -9217604002446587028
+    second: AARON%(8)_122
+  - first:
+      213: 7092590529227696395
+    second: AARON%(8)_123
+  - first:
+      213: 7546075836053903020
+    second: AARON%(8)_124
+  - first:
+      213: 472568309621150132
+    second: AARON%(8)_125
+  - first:
+      213: -4140514582308720804
+    second: AARON%(8)_126
+  - first:
+      213: 1963067073782481082
+    second: AARON%(8)_127
+  - first:
+      213: 1162648365642782390
+    second: AARON%(8)_128
+  - first:
+      213: 1922926932925361775
+    second: AARON%(8)_129
+  - first:
+      213: 4526241043978406458
+    second: AARON%(8)_130
+  - first:
+      213: 8129696730969539688
+    second: AARON%(8)_131
+  - first:
+      213: 304174056086672189
+    second: AARON%(8)_132
+  - first:
+      213: -6348245271901978556
+    second: AARON%(8)_133
+  - first:
+      213: 8450846733351667906
+    second: AARON%(8)_134
+  - first:
+      213: 2925273751974912317
+    second: AARON%(8)_135
+  - first:
+      213: -731903238563152626
+    second: AARON%(8)_136
+  - first:
+      213: 6540996138638008181
+    second: AARON%(8)_137
+  - first:
+      213: 2646058592665866161
+    second: AARON%(8)_138
+  - first:
+      213: -2576189858150273001
+    second: AARON%(8)_139
+  - first:
+      213: -5145288380374283989
+    second: AARON%(8)_140
+  - first:
+      213: -9113742328968715231
+    second: AARON%(8)_141
+  - first:
+      213: -6211164350436584015
+    second: AARON%(8)_142
+  - first:
+      213: -5919985670385301149
+    second: AARON%(8)_143
+  - first:
+      213: -5072944846435577618
+    second: AARON%(8)_144
+  - first:
+      213: -4863171629676989530
+    second: AARON%(8)_145
+  - first:
+      213: -4133591394861468636
+    second: AARON%(8)_146
+  - first:
+      213: -784881973581296554
+    second: AARON%(8)_147
+  - first:
+      213: 9041707141949650315
+    second: AARON%(8)_148
+  - first:
+      213: 1674768964133687121
+    second: AARON%(8)_149
+  - first:
+      213: -399006650575326920
+    second: AARON%(8)_150
+  - first:
+      213: 4064254474864028189
+    second: AARON%(8)_151
+  - first:
+      213: -8929150712890561121
+    second: AARON%(8)_152
+  - first:
+      213: -7551826042829638338
+    second: AARON%(8)_153
+  - first:
+      213: -8856673664582177247
+    second: AARON%(8)_154
+  - first:
+      213: 688061206414871514
+    second: AARON%(8)_155
+  - first:
+      213: 7866988270758308429
+    second: AARON%(8)_156
+  - first:
+      213: -207822467036484056
+    second: AARON%(8)_157
+  - first:
+      213: 6966055135072023199
+    second: AARON%(8)_158
+  - first:
+      213: 5021092687338290682
+    second: AARON%(8)_159
+  - first:
+      213: 4844626438298974223
+    second: AARON%(8)_160
+  - first:
+      213: -4084417723558553063
+    second: AARON%(8)_161
+  - first:
+      213: -3775277664725224933
+    second: AARON%(8)_162
+  - first:
+      213: -6022870395467421441
+    second: AARON%(8)_163
+  - first:
+      213: 2714420424737849887
+    second: AARON%(8)_164
+  - first:
+      213: -5656614795180576229
+    second: AARON%(8)_165
+  - first:
+      213: -3908582228401751354
+    second: AARON%(8)_166
+  - first:
+      213: -6577670727168636128
+    second: AARON%(8)_167
+  - first:
+      213: -73696125131413862
+    second: AARON%(8)_168
+  - first:
+      213: 1752030692627493590
+    second: AARON%(8)_169
+  - first:
+      213: 3820463892791128336
+    second: AARON%(8)_170
+  - first:
+      213: 348864288636467007
+    second: AARON%(8)_171
+  - first:
+      213: 5648751621987489572
+    second: AARON%(8)_172
+  - first:
+      213: -536869462996408897
+    second: AARON%(8)_173
+  - first:
+      213: -5311332766425260201
+    second: AARON%(8)_174
+  - first:
+      213: 4335156741218430229
+    second: AARON%(8)_175
+  - first:
+      213: -5996089851813663964
+    second: AARON%(8)_176
+  - first:
+      213: -3509793803249513880
+    second: AARON%(8)_177
+  - first:
+      213: 3195322353136773632
+    second: AARON%(8)_178
+  - first:
+      213: 7137371933422846354
+    second: AARON%(8)_179
+  - first:
+      213: 716508131173466779
+    second: AARON%(8)_180
+  - first:
+      213: 3370509279325672941
+    second: AARON%(8)_181
+  - first:
+      213: 3021246262450298126
+    second: AARON%(8)_182
+  - first:
+      213: -464930314971525458
+    second: AARON%(8)_183
+  - first:
+      213: -1735534055856149379
+    second: AARON%(8)_184
+  - first:
+      213: 2495632734601161616
+    second: AARON%(8)_185
+  - first:
+      213: 6171868777926064115
+    second: AARON%(8)_186
+  - first:
+      213: -5502483757801296421
+    second: AARON%(8)_187
+  - first:
+      213: 6503627019712194514
+    second: AARON%(8)_188
+  - first:
+      213: 9121375063970035706
+    second: AARON%(8)_189
+  - first:
+      213: 6210341098669982111
+    second: AARON%(8)_190
+  - first:
+      213: -9127002031908595798
+    second: AARON%(8)_191
+  - first:
+      213: 6069578956022041231
+    second: AARON%(8)_192
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AARON%(8)_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 562
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0910e4af035da0750800000000000000
+      internalID: 6272059837401399696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 562
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09cf2160449d090800000000000000
+      internalID: -8009295669422681883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 562
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c20d2fb4cc5800800000000000000
+      internalID: 602572775533758624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 562
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b31f06c324b020800000000000000
+      internalID: 2356547838585057585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 562
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37e4c9968d38000800000000000000
+      internalID: 37111170054648808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 562
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2011c9dc4dcc78b0800000000000000
+      internalID: -5153018143664173014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 562
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c595a49fec8ec4e0800000000000000
+      internalID: -1959473827240634943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 562
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6ea2f135d8ba750800000000000000
+      internalID: 6317298290461959903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_8
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 563
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8652e81448701b0800000000000000
+      internalID: -5690434187066775325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_9
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 562
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e4f89c2e3f48d70800000000000000
+      internalID: 9044622107036569152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_10
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 560
+        width: 23
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea191aa6df1d9e20800000000000000
+      internalID: 3358875903925492454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_11
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 562
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c55609ba118abc0800000000000000
+      internalID: -3771745259363148744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_12
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 563
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351db4fef91d21660800000000000000
+      internalID: 7355171626294169939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_13
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 562
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7a84b1b6f2b60c0800000000000000
+      internalID: -4581516058853595179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_14
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 560
+        width: 23
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e630998cd46a279f0800000000000000
+      internalID: -472132157912317074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_15
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 562
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b784c0ad44ac70a0800000000000000
+      internalID: -6882445477212289103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_16
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 566
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69998b38e3b22430800000000000000
+      internalID: 3756762849193073002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_17
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 563
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22396ef2393dc5d0800000000000000
+      internalID: -3040711282225761745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_18
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 569
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185600cfb7a00490800000000000000
+      internalID: -7782035714093983725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_19
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 561
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f8cfbbdb8ccf40800000000000000
+      internalID: 5750124600176998822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_20
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 561
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b15bbf624cf3130800000000000000
+      internalID: 3548770703101991708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_21
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 562
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33437f6ed75633250800000000000000
+      internalID: 5923189526342612019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_22
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 567
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ac5c6db66346a40800000000000000
+      internalID: 5360469293270420074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_23
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 562
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2a1a7f0784c4cb0800000000000000
+      internalID: -4878444646320987432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 483
+        width: 19
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9f4cf58d17221c0800000000000000
+      internalID: -4529933101047678550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 483
+        width: 19
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a1a4b5c6f40fa90800000000000000
+      internalID: -7282233270651446686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_26
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 483
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2292766370c086200800000000000000
+      internalID: 173401810770798882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 483
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3facbe17ce74d2660800000000000000
+      internalID: 7362620046669761267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_28
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 483
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1115d5e649e5430800000000000000
+      internalID: 3773616739515961844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 483
+        width: 19
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f770b6794abde7e90800000000000000
+      internalID: -7025936868689901697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 483
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dec38406e0a69c0800000000000000
+      internalID: -3933315517863105202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_31
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 486
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bf8b0cd617c29b0800000000000000
+      internalID: -5103579561518892263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_32
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 486
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57c1c4dce783b560800000000000000
+      internalID: 7328350469913429850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_33
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 486
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe53dc6697809ca0800000000000000
+      internalID: -6012156422398976265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_34
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 486
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47811e2d9bdbb6de0800000000000000
+      internalID: -1338767858408023948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_35
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 486
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162eb7f8f1e33840800000000000000
+      internalID: 5202750453967627805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_36
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 486
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3505ae48f5b1cd6d0800000000000000
+      internalID: -2964464357650837421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_37
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 493
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacb32c946ab4c5f0800000000000000
+      internalID: -737259497702835026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_38
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 485
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7482dec50613616e0800000000000000
+      internalID: -1867250705552824249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_39
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 485
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55184c1ad9790ab0800000000000000
+      internalID: -5041364330180242084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_40
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 493
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc1ddc1740bef50800000000000000
+      internalID: 6911622939961052399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_41
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 485
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4328360b895f9b760800000000000000
+      internalID: 7474275092741194292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_42
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 485
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67b01e2c356c3f30800000000000000
+      internalID: 4556628232137389932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_43
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 485
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b42a5e68152f3b80800000000000000
+      internalID: -8412964792043952976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 404
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d780596623028550800000000000000
+      internalID: 6161490703706785748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 404
+        width: 19
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43cfb00d7a6adf0800000000000000
+      internalID: -169263423983700773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 404
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e4a1378636ada60800000000000000
+      internalID: 7699575813202136719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 404
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700b71f6aac60fc80800000000000000
+      internalID: -8291007434725019641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_48
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 404
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac269e91263ba100800000000000000
+      internalID: 120249333077912743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_49
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 404
+        width: 19
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f298e3482178ae70800000000000000
+      internalID: 9126669062618256112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_50
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 404
+        width: 19
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06afac1b3ec60c50800000000000000
+      internalID: 6631214254629299724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_51
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 406
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e418d1f814d860800000000000000
+      internalID: 7553689901998596877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_52
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 406
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200016c3725eb0040800000000000000
+      internalID: 4615034199850680322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_53
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 405
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e17b473cbc8cc10800000000000000
+      internalID: 2074131668741332605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_54
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 406
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aba10d470b72e10800000000000000
+      internalID: 2172899360983661089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_55
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 406
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d0d7de203a3c750800000000000000
+      internalID: 6324077534727966097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_56
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 406
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d451cc666f56c7770800000000000000
+      internalID: 8609868696586556749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_57
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 405
+        width: 20
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e324fd8e88a2570800000000000000
+      internalID: 8442710985218866690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_58
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 406
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbab01ba8f450d90800000000000000
+      internalID: -7132206977776899144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_59
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 413
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3948c6878c809200800000000000000
+      internalID: 184802098431936831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_60
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 405
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e61e912ef6aa9a0800000000000000
+      internalID: -6221036918371422669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_61
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 405
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc9c4d1fc925c450800000000000000
+      internalID: 6108334439124475084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_62
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 405
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbd17b0de61d8b0800000000000000
+      internalID: -5129196657893852407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_63
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 413
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a976747536a3880800000000000000
+      internalID: -8630476509390857649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_64
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 405
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa8919bffa3a5f00800000000000000
+      internalID: 1106261528469408431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_65
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 405
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5e21ec79474d180800000000000000
+      internalID: -9091513552407960118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_66
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 405
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d211731fcabcb00800000000000000
+      internalID: 849963106700438872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 322
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e275c279c29fd830800000000000000
+      internalID: 4098155579842065122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_68
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 322
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd12576223b6bd0800000000000000
+      internalID: -2635958016139993926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_69
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 322
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ffdb70111f01530800000000000000
+      internalID: 3823821139084181279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_70
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d1643b32b7e1850800000000000000
+      internalID: 6349647917900766515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_71
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 322
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2272a67e58ef520800000000000000
+      internalID: 2737772852452729534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_72
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 322
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123eac96d367d4270800000000000000
+      internalID: 8236369299670491937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_73
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 322
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a56046b57cccb520800000000000000
+      internalID: 2719273080965850529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_74
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 322
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dc1581c3474f5f0800000000000000
+      internalID: -723825838644933295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_75
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 323
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf804fea96342580800000000000000
+      internalID: -8852890928436703281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_76
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 322
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b452bc7cdb2bf3b80800000000000000
+      internalID: -8412809050734254773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_77
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 320
+        width: 23
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fe9af2712cdb4e0800000000000000
+      internalID: -1964200457623965805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_78
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 322
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5f398079af1ed70800000000000000
+      internalID: 9070806651091809748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_79
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 323
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c80bdbe3311f800800000000000000
+      internalID: 644317381882055802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_80
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 322
+        width: 23
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23c9f8d32b26b60800000000000000
+      internalID: 7737943087248061131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_81
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 320
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e3d80274178f940800000000000000
+      internalID: 5330134709295726232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_82
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 322
+        width: 23
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec20fc42c0ef6e30800000000000000
+      internalID: 4499061677885500646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_83
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 325
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa5dc9a689433d0800000000000000
+      internalID: -3227787449252597777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_84
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 323
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ba60d93cebc9ac0800000000000000
+      internalID: -3846990234318886021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_85
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 329
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8ea12a5eab07d50800000000000000
+      internalID: 6733086938348841125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_86
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 327
+        width: 24
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cce13062e1b6b80800000000000000
+      internalID: -8400587531319587799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_87
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 327
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ff028a8ef22390800000000000000
+      internalID: -7844427730084957848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_88
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 323
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cf619f57cbb8f70800000000000000
+      internalID: 9190646679455857764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_89
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 329
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d23714b1cc0bb950800000000000000
+      internalID: 6465775716110119635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_90
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 326
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898a14bac93aeba0800000000000000
+      internalID: -6058966805905766007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_91
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 243
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f96086d8c08b6b0800000000000000
+      internalID: -5280456761616720094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_92
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 243
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5fb7c7ec16fa9f0800000000000000
+      internalID: -455037497861474886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_93
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 243
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec028a182c12cd870800000000000000
+      internalID: 8708872898710347982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_94
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 243
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b26b2bb87738bf0800000000000000
+      internalID: -323283306358101155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 243
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83650067acc53e60800000000000000
+      internalID: 7941478537180308367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_96
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 243
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdff2a5b616a24b0800000000000000
+      internalID: -5464448084158186049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_97
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 243
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62316c96c4296d570800000000000000
+      internalID: 8491135004343407398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_98
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 243
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ab65c120e0c1f50800000000000000
+      internalID: 6853368135179221643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_99
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 245
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb309e23e31b4270800000000000000
+      internalID: 8235698210036792311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_100
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 245
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fcedca882fab7e0800000000000000
+      internalID: -1748818836450259112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_101
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 248
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87d28f307f1aad60800000000000000
+      internalID: 7902163063137294222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_102
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 245
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22309fdfd4eebab80800000000000000
+      internalID: -8382344262679198942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_103
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 245
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9f7e02b3f362b40800000000000000
+      internalID: 5415085125147294130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_104
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 248
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38135bc128ae7e720800000000000000
+      internalID: 2875524731647635843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_105
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 249
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5823c271369eed530800000000000000
+      internalID: 3881796540639752837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_106
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 246
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee5a59dfe2a66eb0800000000000000
+      internalID: -4726911607851294994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_107
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 247
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ab62039df9853b0800000000000000
+      internalID: -5523489187805349300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_108
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 247
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1016857e435ec9f0800000000000000
+      internalID: -446327716618825699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_109
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 247
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253f131ea069bab00800000000000000
+      internalID: 840930728906715986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_110
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 245
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e089703f4a47e2e60800000000000000
+      internalID: 7939411444901582862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_111
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 248
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f970a8dd7d23c8bb0800000000000000
+      internalID: -4932511589161367649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_112
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 248
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cb5a9bd857e1630800000000000000
+      internalID: 3899683578914913302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_113
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 163
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d47d6876c10c7da0800000000000000
+      internalID: -5945875456100305712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_114
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 163
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f0476d383fc4e40800000000000000
+      internalID: 5642152180752584558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_115
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 163
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a69e4033ae78560800000000000000
+      internalID: 7316073624533297746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_116
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 163
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1a27d02839fa110800000000000000
+      internalID: 1274399406349787569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_117
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 163
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3b22de603d454e0800000000000000
+      internalID: -1993736708316548179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_118
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 163
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4bc75b27f0ecac0800000000000000
+      internalID: -3833109247500176160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_119
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 163
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c808c1945e31ce010800000000000000
+      internalID: 1219371474605605004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_120
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 163
+        width: 20
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ceef78700c37b10800000000000000
+      internalID: 1978135799924714530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_121
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 165
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38369e515b6ebe80800000000000000
+      internalID: -8160967477525333955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_122
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 165
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc3f92ffd741080800000000000000
+      internalID: -9217604002446587028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_123
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 166
+        width: 21
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09aae71281fd6260800000000000000
+      internalID: 7092590529227696395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_124
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 168
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6d628fdfb09b860800000000000000
+      internalID: 7546075836053903020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_125
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 165
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15313bf56ee8600800000000000000
+      internalID: 472568309621150132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_126
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 165
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe92ebcefe986c0800000000000000
+      internalID: -4140514582308720804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_127
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 166
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab002135a173e3b10800000000000000
+      internalID: 1963067073782481082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_128
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 168
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b693d0578e822010800000000000000
+      internalID: 1162648365642782390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_129
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 169
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e2c0e7bdb9faa10800000000000000
+      internalID: 1922926932925361775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_130
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 166
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a402a9f3070de30800000000000000
+      internalID: 4526241043978406458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_131
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 167
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86408159a1c72d070800000000000000
+      internalID: 8129696730969539688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_132
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 167
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d339fe241b4a83400800000000000000
+      internalID: 304174056086672189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_133
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 167
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440ca354f8086e7a0800000000000000
+      internalID: -6348245271901978556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_134
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 165
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c842b85450774570800000000000000
+      internalID: 8450846733351667906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_135
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 168
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d312d398af8a89820800000000000000
+      internalID: 2925273751974912317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_136
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 168
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d3c7fd1e1c7d5f0800000000000000
+      internalID: -731903238563152626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_137
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f58b8155946ca50800000000000000
+      internalID: 6540996138638008181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_138
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 83
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf08b64540b8b420800000000000000
+      internalID: 2646058592665866161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_139
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 83
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7103df629f88f3cd0800000000000000
+      internalID: -2576189858150273001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_140
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 83
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2988dc9a734898b0800000000000000
+      internalID: -5145288380374283989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_141
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 83
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124e06373ab758180800000000000000
+      internalID: -9113742328968715231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_142
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 83
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b558a27ee28dc9a0800000000000000
+      internalID: -6211164350436584015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_143
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 83
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3690841f56cf7dda0800000000000000
+      internalID: -5919985670385301149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_144
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 83
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee01f0f2a874999b0800000000000000
+      internalID: -5072944846435577618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_145
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 85
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a378534b2b828cb0800000000000000
+      internalID: -4863171629676989530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_146
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 86
+        width: 20
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424bbaee68882a6c0800000000000000
+      internalID: -4133591394861468636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_147
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 84
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c4416e00a8b15f0800000000000000
+      internalID: -784881973581296554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_148
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 87
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8575079db89a7d70800000000000000
+      internalID: 9041707141949650315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_149
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 83
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f8904ef79fd3710800000000000000
+      internalID: 1674768964133687121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_150
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 85
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8317079b091767af0800000000000000
+      internalID: -399006650575326920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_151
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 85
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aef0b59e1276830800000000000000
+      internalID: 4064254474864028189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_152
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 86
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d6b3c3cb8451480800000000000000
+      internalID: -8929150712890561121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_153
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 87
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35789fa936823790800000000000000
+      internalID: -7551826042829638338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_154
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 90
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ea50b0a36c61580800000000000000
+      internalID: -8856673664582177247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_155
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 88
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbc510950c7c8900800000000000000
+      internalID: 688061206414871514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_156
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 89
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aa6b2b6282d2d60800000000000000
+      internalID: 7866988270758308429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_157
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 87
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ee1fb319aad1df0800000000000000
+      internalID: -207822467036484056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_158
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 85
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92f0c3dc366ca060800000000000000
+      internalID: 6966055135072023199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_159
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 84
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd3c1d32318ea540800000000000000
+      internalID: 5021092687338290682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_160
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 88
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08b644e3129b3340800000000000000
+      internalID: 4844626438298974223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_161
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a9bf878bb3157c0800000000000000
+      internalID: -4084417723558553063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_162
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12369957f48b9bc0800000000000000
+      internalID: -3775277664725224933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_163
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8a2fd29477a6ca0800000000000000
+      internalID: -6022870395467421441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_164
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 3
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128093aefe8ba520800000000000000
+      internalID: 2714420424737849887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_165
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12fa0650daaf71b0800000000000000
+      internalID: -5656614795180576229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_166
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3
+        width: 21
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca75bcfb2de1c9c0800000000000000
+      internalID: -3908582228401751354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_167
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bc0a9d25b67b4a0800000000000000
+      internalID: -6577670727168636128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_168
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a962830c3cd2afef0800000000000000
+      internalID: -73696125131413862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_169
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 5
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2b4add1a6705810800000000000000
+      internalID: 1752030692627493590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_170
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 6
+        width: 21
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01175073ba3050530800000000000000
+      internalID: 3820463892791128336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_171
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 4
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37fefed83a67d400800000000000000
+      internalID: 348864288636467007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_172
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 6
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427d9fcfba5646e40800000000000000
+      internalID: 5648751621987489572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_173
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 4
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5285f5118ac88f0800000000000000
+      internalID: -536869462996408897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_174
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 61
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f54555dfa5a46b0800000000000000
+      internalID: -5311332766425260201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_175
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51de6f56612992c30800000000000000
+      internalID: 4335156741218430229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_176
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 5
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b62556c0c99cca0800000000000000
+      internalID: -5996089851813663964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_177
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 5
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a0272b125ba4fc0800000000000000
+      internalID: -3509793803249513880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_178
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 7
+        width: 36
+        height: 71
+      alignment: 9
+      pivot: {x: 0.31097072, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a259920c0185c20800000000000000
+      internalID: 3195322353136773632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_179
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 10
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291038145f90d0360800000000000000
+      internalID: 7137371933422846354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_180
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 9
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92064d595c81f900800000000000000
+      internalID: 716508131173466779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_181
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 7
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de55d52f45476ce20800000000000000
+      internalID: 3370509279325672941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_182
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 8
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d935ce77f9de920800000000000000
+      internalID: 3021246262450298126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_183
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 8
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaecfc2875c3c89f0800000000000000
+      internalID: -464930314971525458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_184
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 5
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce911b8f42ae7e0800000000000000
+      internalID: -1735534055856149379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_185
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 4
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b2dbbefb442a220800000000000000
+      internalID: 2495632734601161616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_186
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 483
+        width: 18
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f77b9c14f1e6a550800000000000000
+      internalID: 6171868777926064115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_187
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 485
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdda5e9fc2043a3b0800000000000000
+      internalID: -5502483757801296421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_188
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 485
+        width: 20
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7e3951156814a50800000000000000
+      internalID: 6503627019712194514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_189
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 485
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af73a072b42a59e70800000000000000
+      internalID: 9121375063970035706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_190
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 404
+        width: 18
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91cb3053509f2650800000000000000
+      internalID: 6210341098669982111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_191
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 246
+        width: 21
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7d1d74200665180800000000000000
+      internalID: -9127002031908595798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AARON%(8)_192
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 246
+        width: 22
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a41e907e97b3450800000000000000
+      internalID: 6069578956022041231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
